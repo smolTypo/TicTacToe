@@ -7,6 +7,8 @@ This project is a simple React application allowing two players to play a game o
 
 React is used to create this exercise by allowing the user to interact with the game board. The React components are used to create the game board, which consists of nine squares. The user can click on a square to place their mark (X or O). React is also used to display the next player to play, update the color of the mark based on the player's turn, and display a message when a player wins. This is done by keeping track of the state of the game and making sure that the game board and messages are updated accordingly.
 
+Demo: https://smoltypo.github.io/TicTacToe/
+
 Our tasks for this exercise are as follows:
 
 1. Display the next player to play (Player X or Player O). This should show which player’s turn it is. It should be updated every time a player selects a square
